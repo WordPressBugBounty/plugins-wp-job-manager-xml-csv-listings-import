@@ -1,13 +1,13 @@
-=== Import Listings into WP Job Manager ===
+=== WP All Import – Job Listing Import for WP Job Manager ===
 Contributors: soflyy, wpallimport
 Tags: Tags: wp job manager, import listings, import job listings, import directory, job directory, import job directory, wp job manager, import wp job manager, import wp job manager listings, import job board, job board
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 4.9
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 1.2.1
 
-Easily import job listings from any XML or CSV file to the WP Job Manager plugin with the WP Job Manager Add-On for WP All Import.
+Drag & drop to import job listings from any CSV, XML, Excel, or Google Sheets file of any size or format. Supports company info, locations, application details, custom fields, and more, with powerful filters and scheduling.
 
 == Description ==
 
